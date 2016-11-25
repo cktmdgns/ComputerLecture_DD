@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Asset/Scenes/2-1DungeonRoom.unity
+  isLoaded: 1
+  isActive: 1
